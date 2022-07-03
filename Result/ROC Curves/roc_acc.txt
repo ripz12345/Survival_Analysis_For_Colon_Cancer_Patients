@@ -1,0 +1,7 @@
+ada vs xgb 2: ada: 0.9086, xgb: 0.9301
+
+xgb vs xgb pmt 1: xgb: 0.9140, xgb pmt: 0.9355
+xgb vs xgb pmt 2: xgb: 0.9570, xgb pmt: 0.9892
+xgb vs xgb pmt 3: xgb: 0.9086, xgb pmt: 0.9516
+xgb vs xgb pmt 4: xgb: 0.9355, xgb pmt: 0.9570
+xgb vs xgb pmt 5: xgb: 0.9032, xgb pmt: 0.9462
